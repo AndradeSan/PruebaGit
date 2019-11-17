@@ -12,7 +12,7 @@ public class Bienvenidos {
 		System.out.println("Bienvedidos a Java");
 		System.out.printf("Bienvenidos a ");
 		System.out.println("Java");
-	
+		System.out.println("Hola mundo Git");
 		} // fin del método main
 
 }// fin de la clase Bienvenidos
